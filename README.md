@@ -5,7 +5,7 @@ This project aims to analyze the relationship between social media usage and men
 
 Group Members
 ---
-* Member 1: Alex Dunn; Most Commonly Used Platforms
+* Member 1: Alex Dunn; Most Commonly Used Platforms by Age
 *	Member 2: Kene Ezeagba; Age vs Hours Spent on Social Media Platforms
 *	Member 3: Kathryn Kavanagh Mental Health Impacts Across Individual Platforms
 *	Member 4: Jerome Stepp; Relationship Status/Social Media Use
